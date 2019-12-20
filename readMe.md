@@ -13,7 +13,7 @@ Using the Code Editor of your choice
 3. Using JavaScript, based on the logged in User determined which buttons should be shown or hidden 
 4. Based on the “Request Type” disable alternative choices in the "Request Type" dropdown
 5. When the status is "DoA Started" the form cannot be changed. 
-6. Add the JavaScript the HTML page 
+6. Add the JavaScript to the HTML page 
 
 ### Level 2: ES6/ES7 Syntax 
 ### Create JavaScript functions and the CSS Stylesheet 
