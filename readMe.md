@@ -24,7 +24,7 @@ Using the Code Editor of your choice
 1. Add the JavaScript to the HTML page that allows the CSS to load without being blocked by Potentially Long running JavaScript functions
 2. Use ES6 syntax 
 3. Add tool tips to each input field 
-4. Add a MongoDB
+4. Add a Backend Database or store the data in local storage 
 5. Create a git repo and share your code :D 
 
 ### Copyright
