@@ -8,12 +8,12 @@ Select Level 1 or Level 2 to complete this task
 ### Level 1: ES5 Syntax 
 ### Create JavaScript functions and the CSS Stylesheet 
 Using the Code Editor of your choice 
-* Style the form with CSS 
-* Add the CSS to the HTML page 
-* Using JavaScript, based on the logged in User determined which buttons should be shown or hidden 
-* Based on the “Request Type” disable alternative choices in the "Request Type" dropdown
-* When the status is "DoA Started" the form cannot be changed. 
-* Add the JavaScript the HTML page 
+* 1. Style the form with CSS 
+* 2. Add the CSS to the HTML page 
+* 3. Using JavaScript, based on the logged in User determined which buttons should be shown or hidden 
+* 4. Based on the “Request Type” disable alternative choices in the "Request Type" dropdown
+* 5. When the status is "DoA Started" the form cannot be changed. 
+* 6. Add the JavaScript the HTML page 
 
 ### Level 2: ES6/ES7 Syntax 
 ### Create JavaScript functions and the CSS Stylesheet 
@@ -21,10 +21,10 @@ Using the Code Editor of your choice
 [developer.mozilla.org Map Function] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
 ## Bonus 
-* Add the JavaScript to the HTML page that allows the CSS to load without being blocked by Potentially Long running JavaScript functions
-* Use ES6 syntax 
-* Add tool tips to each input field 
-* create a git repo and share your code :D 
+* 1. Add the JavaScript to the HTML page that allows the CSS to load without being blocked by Potentially Long running JavaScript functions
+* 2. Use ES6 syntax 
+* 3. Add tool tips to each input field 
+* 4. Create a git repo and share your code :D 
 
 ### Copyright
 Silgan Plastics © 2019. All Rights Reserved.
