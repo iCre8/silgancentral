@@ -1,6 +1,6 @@
 ### Background / Requirements 
 The Finance team needs a web form to track financial projects in the organization. 
-They already have an HTML form that needs some enhancements. Some of the enhancement include capturing information about the form when the user opens the form for editing. Other improvements are hiding buttons based on the logged in user. If the Initiator is logged in Save should be hidden. For other User the Save options is displayed. When the Regional Controller is logged in and clicks "Save" the form can no longer be changed.  
+They already have an HTML form that needs some enhancements. Some of the enhancement include capturing information about the form when the user opens the form for editing. Other improvements are hiding buttons based on the logged in user. If the Initiator is logged in, the Save button should be hidden. For other Users the Save button is displayed. When the Regional Controller is logged in and clicks "Save" the form must be diabled for edits.  
 
 ## Your Task 
 Select Level 1 or Level 2 to complete this task 
@@ -16,7 +16,7 @@ Using the Code Editor of your choice
 * Add the JavaScript the HTML page 
 
 ### Level 2: ES6/ES7 Syntax 
-
+### Create JavaScript functions and the CSS Stylesheet 
 ## Use the Map () function to complete the above task
 [developer.mozilla.org Map Function] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
