@@ -3,7 +3,7 @@ The finance team needs a web form to track financial projects in the organizatio
 They have an HTML form that needs enhancements. Some of the enhancement include capturing information about the form when the user opens the form for editing. Based on the logged in user some buttons should be hidden. If the Initiator is logged in Save should be hidden. For other User the Save options is displayed. When the Regional Controller is logged in and clicks "Save" the form can no longer be changed.  
 
 ## Your Task 
-Select Level one or Level 2 to compelte this task 
+Select Level one or Level 2 to complete this task 
 
 ### Level 1: ES5 Syntax 
 ### Create JavaScript functions and the CSS Stylesheet 
