@@ -18,7 +18,7 @@ Using the Code Editor of your choice
 ### Level 2: ES6/ES7 Syntax 
 ### Create JavaScript functions and the CSS Stylesheet 
 ## Use the Map () function to complete the above task
-[developer.mozilla.org Map Function] ('https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map')
+[developer.mozilla.org Map Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
 ## Bonus 
 1. Add the JavaScript to the HTML page that allows the CSS to load without being blocked by Potentially Long running JavaScript functions
